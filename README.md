@@ -5,7 +5,7 @@ Welcome to an introduction guide to HTML. In this guide, I'll briefly go through
 
 # What is HTML?
 
-
+HTML stands for Hypertext Markup language, it is used to render web pages with other scripting languages along the side.
 ```
-<script>alert('asfas');</script>
+<script>alert('...');</script>
 ```
