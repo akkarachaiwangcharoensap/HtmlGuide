@@ -58,5 +58,25 @@ Link tags are used to link your site to a CSS script. What is a CSS? CSS stands 
 
 Lastly, we have a script tag. Script tag is basically like a CSS link tag, but it is javascript. I won't be covering this in this guide. I'll be covering this on javascript guide.
 
+##Body Tag
+Body tag is where the magic begins. Within a body tags, you will have many other HTML tags such as
+```html
+<h1><h2><h3><div></div><span></span><i></i><b></b><u></u>
+```
 
+Basically, body tag is the main part of your web page. Whenever it is a menu, a link, or any other. It will go in between the body tag.
 
+For an example,
+
+```html
+<html>
+<head>
+  <!-- This is a comment, the page won't render this -->
+  <!-- CSS and Javascript links -->
+</head>
+<body>
+  <h1>Hey! My name is Aki! Nice to meet you!</h1>
+</body>
+</html>
+
+Go to: [Here](https://AkkarachaiWangcharoensap.github.io/HtmlGuide) for a live site.
