@@ -79,4 +79,4 @@ For an example,
 </body>
 </html>
 
-Go to: [Here](https://AkkarachaiWangcharoensap.github.io/HtmlGuide) for a live site.
+Go to: [Here](https://AkkarachaiWangcharoensap.github.io/HtmlGuide/) for a live site.
