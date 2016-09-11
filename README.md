@@ -70,13 +70,15 @@ For an example,
 
 ```html
 <html>
-<head>
-  <!-- This is a comment, the page won't render this -->
-  <!-- CSS and Javascript links -->
-</head>
-<body>
-  <h1>Hey! My name is Aki! Nice to meet you!</h1>
-</body>
+  <head>
+    <!-- This is a comment, the page won't render this -->
+    <!-- CSS and Javascript links -->
+  </head>
+  <body>
+    <h1>Hey! My name is Aki! Nice to meet you!</h1>
+  </body>
 </html>
+```
 
-Go to: [Here](https://AkkarachaiWangcharoensap.github.io/HtmlGuide/) for a live site.
+View it live: [Here](https://akkarachaiwangcharoensap.github.io/HtmlGuide/).
+
