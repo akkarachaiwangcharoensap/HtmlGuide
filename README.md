@@ -82,3 +82,4 @@ For an example,
 
 View it live: [Here](https://akkarachaiwangcharoensap.github.io/HtmlGuide/).
 
+That is it for this guide! The most important thing to learn about HTML is to practice. Pratice makes PERFECT! Most of the HTML tags can be found at [W3 Schools](http://www.w3schools.com/html/)
