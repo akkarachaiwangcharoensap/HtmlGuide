@@ -14,7 +14,7 @@ HTML is made up with tags. For an example,
 </body>
 </html>
 ```
-These are the tags, html, head, body are html tags.
+Html, head, body are html tags.
 ```html
 <head></head>
 ```
