@@ -61,7 +61,7 @@ Lastly, we have a script tag. Script tag is basically like a CSS link tag, but i
 ##Body Tag
 Body tag is where the magic begins. Within a body tags, you will have many other HTML tags such as
 ```html
-<h1><h2><h3><div></div><span></span><i></i><b></b><u></u>
+<h1></h1><h2></h2><h3></h3><div></div><span></span><i></i><b></b><u></u>
 ```
 
 Basically, body tag is the main part of your web page. Whenever it is a menu, a link, or any other. It will go in between the body tag.
