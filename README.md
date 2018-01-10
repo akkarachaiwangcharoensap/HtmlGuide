@@ -54,7 +54,7 @@ Full example,
 </html>
 ```
 
-#Head Tag
+# Head Tag
 Within the head tag, you can use meta tags, link tags, and a script tag to develop your web page.
 
 Meta tags are the tags that will be used to improve your site searching (web crawling) which is also known as SEO. I won't be cover SEO on this guide. But, if you are interested. You can learn more by doing some research.
@@ -63,7 +63,7 @@ Link tags are used to link your site to a CSS script. What is a CSS? CSS stands 
 
 Lastly, we have a script tag. Script tag is basically like a CSS link tag, but it is javascript. Again, I won't be covering this in this guide. I'll be covering this on the javascript guide.
 
-#Body Tag
+# Body Tag
 Body tag is where the magic begins. Within a body tags, you will have many other HTML tags such as
 ```
 <h1></h1><h2></h2><h3></h3><div></div><span></span><i></i><b></b><u></u>
